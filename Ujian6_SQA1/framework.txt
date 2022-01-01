@@ -1,4 +1,0 @@
-browser=chrome
-name=CobaTester99
-password=jufvh
-email=bagong123@belajarsqa.com
